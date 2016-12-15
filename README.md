@@ -1,2 +1,3 @@
-# react-alarm
-Alarm web app based on React
+# React-Alarm-Clock
+Alarm clock based on React
+
